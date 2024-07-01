@@ -35,7 +35,14 @@ I'm Kavya B Singh, a passionate developer with a knack for building intuitive an
 - **JIT HACK’24 at Jyothi Institute of Technology**: Built an impressive website with 3D effects, contributing innovative solutions.
 - **College Literature Club**: Content writer, organizing literary events to foster a culture of reading and writing.
 - **NSS Volunteer**: Dedicated to community service through various social and developmental activities.
-- **Youth for Seva Member**: Active in projects for societal betterment and empowerment.
-```
 
-Feel free to make any further adjustments as needed!
+
+
+
+
+
+
+
+
+  
+- **Youth for Seva Member**: Active in projects for societal betterment and empowerment.
