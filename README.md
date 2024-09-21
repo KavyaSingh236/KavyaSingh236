@@ -8,7 +8,7 @@ I'm Kavya B Singh, a passionate developer with a knack for building intuitive an
 - [KOSRA Travel Management](https://github.com/KavyaSingh236/KOSRATRAVELMANAGEMENT): An innovative travel management web application featuring table reservations, hotel bookings, flight bookings, bucket lists, memories, receipt downloads, visually engaging animations, and 3D views of tables and hotel interiors. 
 - [Tempsat](https://kavyasingh236.github.io/Tempsat/): A user-friendly weather website that provides accurate forecasts and insights.
 - [Organ Donation and Procurement Management System](https://github.com/KavyaSingh236/OrganDonation): Streamlining donor registration, organ allocation, and logistical coordination.
-- [PixelCraft](https://afifahayeshabijli.github.io/Pixel-Craft1/): An online image editor focused on simplicity and efficiency for basic editing tasks. 
+- [PixelCraft](https://kavyasingh236.github.io/Pixel/): An online image editor focused on simplicity and efficiency for basic editing tasks. 
 ### 👯 I’m looking to collaborate on
 - Open source projects related to web development and IoT.
 
