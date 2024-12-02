@@ -10,7 +10,7 @@ I'm Kavya B Singh, a passionate developer with a knack for building intuitive an
 - [Organ Donation and Procurement Management System](https://github.com/KavyaSingh236/OrganDonation): Streamlining donor registration, organ allocation, and logistical coordination.
 - [PixelCraft](https://kavyasingh236.github.io/Pixel/): An online image editor focused on simplicity and efficiency for basic editing tasks. 
 ### 👯 I’m looking to collaborate on
-- Open source projects related to web development and IoT.
+- Open source projects related to web development.
 
 ### 💬 Ask me about
 - Web development
@@ -21,12 +21,6 @@ I'm Kavya B Singh, a passionate developer with a knack for building intuitive an
 - [GitHub](https://github.com/KavyaSingh236/)
 - [LinkedIn](http://www.linkedin.com/in/kavya-singh-690888292)
 - [Email](mailto:iamkavya23@gmail.com)
-
-### 😄 Pronouns
-- She/Her
-
-### ⚡ Fun fact
-- I love participating in hackathons and coding competitions!
 
 ### 🏆 Achievements
 - **The Code Fiesta at SJBIT**: Engaged in competitive coding and collaborative web development projects.
