@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm Kavya B Singh, a passionate developer with a knack for building intuitive and efficient web applications. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm Kavya Singh, a passionate developer with a knack for building intuitive and efficient web applications. I enjoy exploring new technologies and applying them to solve real-world problems.
 
 ### 🚀 Projects
 - [KodeLive](https://github.com/KavyaSingh236/KodeLive): A powerful real-time collaborative coding environment.
