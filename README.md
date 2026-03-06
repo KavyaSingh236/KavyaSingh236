@@ -1,32 +1,99 @@
+# Hi there 👋
 
-## Hi there 👋
+I'm **Kavya Singh**, a **Data Science graduate student at the University of North Texas** with a background in Computer Science. I enjoy building intelligent systems that combine **data analytics, machine learning, and software engineering** to solve real-world problems.
 
-I'm Kavya Singh, a passionate developer with a knack for building intuitive and efficient web applications. I enjoy exploring new technologies and applying them to solve real-world problems.
+I have experience developing **end-to-end analytics pipelines, machine learning models, and interactive dashboards** that turn raw data into meaningful insights.
 
-### 🚀 Projects
-- [KodeLive](https://github.com/KavyaSingh236/KodeLive): A powerful real-time collaborative coding environment.
-- [TrailsByKav](https://trailsbykav.onrender.com/listing): A full-stack web application inspired by Airbnb, featuring user authentication, interactive maps, image uploads, and a review system for managing travel destination listings.
-- [KOSRA Travel Management](https://github.com/KavyaSingh236/KOSRATRAVELMANAGEMENT): An innovative travel management web application featuring table reservations, hotel bookings, flight bookings, bucket lists, memories, receipt downloads, visually engaging animations, and 3D views of tables and hotel interiors.
-- [Tempsat](https://kavyasingh236.github.io/Tempsat/): A user-friendly weather website that provides accurate forecasts and insights.
-- [Organ Donation and Procurement Management System](https://github.com/KavyaSingh236/OrganDonation): Streamlining donor registration, organ allocation, and logistical coordination.
-- [PixelCraft](https://kavyasingh236.github.io/Pixel/): An online image editor focused on simplicity and efficiency for basic editing tasks. 
-### 👯 I’m looking to collaborate on
-- Open source projects related to web development.
+---
 
-### 💬 Ask me about
-- Web development
-- Project management
-- IoT applications
+## 🚀 Featured Projects
 
-### 📫 How to reach me
-- [GitHub](https://github.com/KavyaSingh236/)
-- [LinkedIn](http://www.linkedin.com/in/kavya-singh-690888292)
-- [Email](mailto:iamkavya23@gmail.com)
+### 🔹 InsightSphere – Automated ML Reporting System
+An automated data science workflow that analyzes datasets, trains ML models, evaluates performance, and generates structured analytical reports.
 
-### 🏆 Achievements
-- **The Code Fiesta at SJBIT**: Engaged in competitive coding and collaborative web development projects.
-- **JIT HACK’24 at Jyothi Institute of Technology**: Built an impressive website with 3D effects, contributing innovative solutions.
-- **College Literature Club**: Content writer, organizing literary events to foster a culture of reading and writing.
-- **NSS Volunteer**: Dedicated to community service through various social and developmental activities.
-- **Youth for Seva Member**: Active in projects for societal betterment and empowerment.
+**Highlights**
+- Automated dataset inspection, feature analysis, and model training
+- Compared multiple models using **Accuracy, Precision, Recall, and ROC-AUC**
+- Generated **automated PDF reports with visual summaries and metrics**
+- Designed to enable **non-technical users to run end-to-end analysis**
 
+**Tech Stack:** Python, scikit-learn, Pandas, NumPy, Report Automation
+
+### 🔹 Heart Disease Prediction Dashboard
+A predictive analytics dashboard that estimates cardiovascular risk based on clinical indicators.
+
+**Highlights**
+- Built using **400+ patient health records**
+- Implemented a **classification model for risk prediction**
+- Interactive **parameter-based simulation in Tableau**
+- Visualizes probability-based health risk scoring
+
+**Tech Stack:** Python, Tableau, Machine Learning
+
+### 🔹 Customer Purchase Behavior Analytics
+Retail analytics project focused on identifying customer segments and purchasing trends.
+
+**Highlights**
+- Processed **3,900+ retail transactions**
+- Built **SQL segmentation pipelines**
+- Designed **Power BI dashboards with business KPIs**
+- Reduced manual spreadsheet reporting using automated workflows
+
+**Tech Stack:** SQL, Power BI, Python
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+Python • SQL • JavaScript • R
+
+### Data Science & Analytics
+Machine Learning • Data Cleaning • Exploratory Data Analysis • Statistical Modeling • Model Evaluation
+
+### Visualization & BI
+Power BI • Tableau • Excel (PivotTables, VLOOKUP)
+
+### Tools & Platforms
+Pandas • NumPy • JupyterLab • Git • VS Code
+
+### Databases
+MySQL • MongoDB
+
+### Web Development
+Node.js • Express • React • Django • Flask • REST APIs • Tailwind CSS
+
+---
+
+## 🏆 Experience
+
+### Full Stack Intern — Varcons Technologies
+- Contributed to redesign of NGO website using **Django and backend database integration**
+- Implemented functional web components and improved usability
+
+### IoT Intern — Cranes Varsity
+- Developed a **smart blind-stick prototype using embedded sensors**
+- Tested system performance and documented experimental results
+
+---
+
+## 🎓 Education
+
+**University of North Texas**  
+MS in Data Science *(Expected 2027)*
+
+**Visvesvaraya Technological University, Bangalore**  
+B.E. in Computer Science
+
+---
+
+## 📜 Certifications
+- IBM – Introduction to Cloud
+- AI DevOps Engineer – NASSCOM / NCVET
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** [KavyaSingh236](https://github.com/KavyaSingh236)
+- **LinkedIn:** [kavya-singh-690888292](http://www.linkedin.com/in/kavya-singh-690888292)
+- **Email:** [kavyabalajisingh@gmail.com](mailto:kavyabalajisingh@gmail.com)
