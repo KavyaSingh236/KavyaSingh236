@@ -1,83 +1,90 @@
-# Hi there 👋
+### Hi there 👋
 
-I'm **Kavya Singh**, a **Data Science graduate student at the University of North Texas** with a background in Computer Science. I enjoy building intelligent systems that combine **data analytics, machine learning, and software engineering** to solve real-world problems.
+I'm **Kavya Singh**, a **Data Science graduate student at the University of North Texas** with a background in Computer Science.
 
-I have experience developing **end-to-end analytics pipelines, machine learning models, and interactive dashboards** that turn raw data into meaningful insights.
+I build **data analytics pipelines, machine learning models, and interactive dashboards** that transform raw data into actionable insights.
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 InsightSphere – Automated ML Reporting System
-An automated data science workflow that analyzes datasets, trains ML models, evaluates performance, and generates structured analytical reports.
-
-**Highlights**
-- Automated dataset inspection, feature analysis, and model training
-- Compared multiple models using **Accuracy, Precision, Recall, and ROC-AUC**
-- Generated **automated PDF reports with visual summaries and metrics**
-- Designed to enable **non-technical users to run end-to-end analysis**
-
-**Tech Stack:** Python, scikit-learn, Pandas, NumPy, Report Automation
-
-### 🔹 Heart Disease Prediction Dashboard
-A predictive analytics dashboard that estimates cardiovascular risk based on clinical indicators.
-
-**Highlights**
-- Built using **400+ patient health records**
-- Implemented a **classification model for risk prediction**
-- Interactive **parameter-based simulation in Tableau**
-- Visualizes probability-based health risk scoring
-
-**Tech Stack:** Python, Tableau, Machine Learning
-
-### 🔹 Customer Purchase Behavior Analytics
-Retail analytics project focused on identifying customer segments and purchasing trends.
-
-**Highlights**
-- Processed **3,900+ retail transactions**
-- Built **SQL segmentation pipelines**
-- Designed **Power BI dashboards with business KPIs**
-- Reduced manual spreadsheet reporting using automated workflows
-
-**Tech Stack:** SQL, Power BI, Python
+My work focuses on combining **Python, SQL, machine learning, and data visualization** to solve real-world analytical problems.
 
 ---
 
-## 🛠️ Technical Skills
+# 🚀 Featured Projects
+
+### InsightSphere – Automated Data Intelligence Platform
+An intelligent system that automatically analyzes datasets, trains machine learning models, and generates structured analytical reports.
+
+🔹 Automatically detects dataset structure and potential prediction targets  
+🔹 Trains and compares multiple machine learning models  
+🔹 Generates visual insights and automated analytical reports  
+🔹 Designed to simplify the data analysis workflow
+
+**Tech Stack:** Python • scikit-learn • Pandas • NumPy • Streamlit  
+
+🔗 Repository: https://github.com/KavyaSingh236/InsightSphere  
+🔗 Live App: https://kavyasingh-insightsphere.streamlit.app/
+
+---
+
+### Heart Disease Prediction Dashboard
+Predictive analytics dashboard estimating cardiovascular risk using clinical health indicators.
+
+🔹 Built using **400+ patient health records**  
+🔹 Implemented machine learning classification model  
+🔹 Interactive **risk simulation dashboard in Tableau**  
+🔹 Visualizes probability-based health risk predictions
+
+**Tech Stack:** Python • Tableau • Machine Learning  
+
+🔗 Repository:[ https://github.com/KavyaSingh236/Heart-Disease-Prediction-Dashboard](https://github.com/KavyaSingh236/Heart-Disease-Prediction-Dashboard-)
+
+---
+
+### Customer Purchase Behavior Analytics
+End-to-end retail analytics pipeline exploring customer purchase patterns.
+
+🔹 Processed **3,900+ retail transactions**  
+🔹 Built SQL-based customer segmentation queries  
+🔹 Designed interactive **Power BI dashboards with KPIs**  
+🔹 Replaced manual spreadsheet reporting workflows
+
+**Tech Stack:** Python • SQL • Power BI  
+
+🔗 Repository: [https://github.com/KavyaSingh236/Customer-Purchase-Analytics](https://github.com/KavyaSingh236/End-to-End-Customer-Purchase-Behavior-Analytics-Using-Python-MySQL-Power-BI)
+
+---
+
+# 🛠 Technical Skills
 
 ### Programming
-Python • SQL • JavaScript • R
+Python • SQL • R
 
 ### Data Science & Analytics
-Machine Learning • Data Cleaning • Exploratory Data Analysis • Statistical Modeling • Model Evaluation
+Machine Learning • Exploratory Data Analysis • Statistical Modeling • Feature Engineering • Model Evaluation
 
-### Visualization & BI
-Power BI • Tableau • Excel (PivotTables, VLOOKUP)
+### Data Visualization
+Power BI • Tableau • Excel
 
-### Tools & Platforms
-Pandas • NumPy • JupyterLab • Git • VS Code
+### Tools
+Pandas • NumPy • Jupyter • Git • VS Code
 
 ### Databases
 MySQL • MongoDB
 
-### Web Development
-Node.js • Express • React • Django • Flask • REST APIs • Tailwind CSS
-
 ---
 
-## 🏆 Experience
+# 💼 Experience
 
 ### Full Stack Intern — Varcons Technologies
 - Contributed to redesign of NGO website using **Django and backend database integration**
-- Implemented functional web components and improved usability
+- Implemented web features and improved usability for content management
 
 ### IoT Intern — Cranes Varsity
 - Developed a **smart blind-stick prototype using embedded sensors**
-- Tested system performance and documented experimental results
+- Tested device performance and documented system results
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 **University of North Texas**  
 MS in Data Science *(Expected 2027)*
@@ -87,13 +94,14 @@ B.E. in Computer Science
 
 ---
 
-## 📜 Certifications
-- IBM – Introduction to Cloud
+# 📜 Certifications
+- IBM – Introduction to Cloud  
 - AI DevOps Engineer – NASSCOM / NCVET
 
 ---
 
-## 📫 Connect With Me
-- **GitHub:** [KavyaSingh236](https://github.com/KavyaSingh236)
-- **LinkedIn:** [kavya-singh-690888292](http://www.linkedin.com/in/kavya-singh-690888292)
-- **Email:** [kavyabalajisingh@gmail.com](mailto:kavyabalajisingh@gmail.com)
+# 📫 Connect With Me
+
+GitHub: https://github.com/KavyaSingh236  
+LinkedIn: http://www.linkedin.com/in/kavya-singh-690888292  
+Email: kavyabalajisingh@gmail.com
